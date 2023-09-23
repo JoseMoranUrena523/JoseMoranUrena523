@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseMoranUrena523
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning how to code websites/games.
-- 💞️ I’m looking to collaborate with game developers.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning back-end development.
+- 💞️ I’m looking to collaborate with developers.
 - 📫 How to reach me: [jose@josemoranurena.tech](mailto:jose@josemoranurena.tech).
 - ❓ I am currently working on a Bitcoin Lightning API called [Biteq by Teqquu](https://biteq.teqquu.com/).
 <!---
