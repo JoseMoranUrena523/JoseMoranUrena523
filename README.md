@@ -1,7 +1,8 @@
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseMoranUrena523&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/JoseMoranUrena523/count.svg" alt="Visitor's Count" />
+</div>
+<br>
 - 👋 Hi, I’m @JoseMoranUrena523
 - 👀 I’m interested in software development and aviation-related careers.
 - 🌱 I’m currently learning how to fly the Boeing 737-800.
