@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @JoseMoranUrena523
-- 👀 I’m interested in software development and aviation-related careers.
-- 🌱 I’m currently learning how to fly the Boeing 737-800.
-- 💞️ I’m looking to collaborate with developers.
-- 📫 How to reach me: [jose@josemoranurena.tech](mailto:jose@josemoranurena.tech).
-- ❓ I am currently apart of [Civil Air Patrol](https://gocivilairpatrol.com/).
-<!---
-JoseMoranUrena523/JoseMoranUrena523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✈️ Jose Moran Urena
+
+Hi there! I’m Jose Moran Urena – a high school freshman, aspiring USAF officer, and passionate backend developer with a strong interest in aviation and technology.
+
+* 💻 **Software Development:** Building bots, APIs, and backend systems (Node.js, Express, MongoDB).
+* 🛩️ **Aviation Pathway:** Cadet Staff Sergeant in [Civil Air Patrol](https://gocivilairpatrol.com/), currently in ground school and working toward a future in aerospace.
+* 🎯 **Goals:** Combine my love for technology and aviation to pursue a career in military aviation and software engineering.
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5450&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
