@@ -1,6 +1,6 @@
 ## ✈️ Jose Moran Urena
 
-Hi there! I’m Jose Moran Urena – a high school freshman, aspiring USAF officer, and passionate backend developer with a strong interest in aviation and technology.
+Hi there! I’m Jose Moran Urena, a high school sophomore, aspiring USAF officer, and passionate backend developer with a strong interest in aviation and technology.
 
 * 💻 **Software Development:** Building bots, APIs, and backend systems (Node.js, Express, MongoDB).
 * 🛩️ **Aviation Pathway:** Cadet Master Sergeant in [Civil Air Patrol](https://cap.gov/), currently in ground school and working toward a future in aerospace.
